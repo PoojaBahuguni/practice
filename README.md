@@ -5,3 +5,7 @@ git init - Initialize local git repo
 git add <file> - Add files to staging
 git status - status of working tree
 git commit - commit changes in staging to remote repo
+
+
+git branch mybranch - will create a new beanch
+git checkout mybranch - will go to that branch
